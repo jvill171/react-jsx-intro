@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(233, 255, 255);
+}
+
+.aTweet{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+    max-width: 400px;
+    margin: 10px 40px;
+    padding: 0 15px;
+}
+
+.twtName{
+    font-size: 1.3rem;
+}
+.twtUsername{
+    font-size: 0.9rem;
+    color:gray;   
+}
